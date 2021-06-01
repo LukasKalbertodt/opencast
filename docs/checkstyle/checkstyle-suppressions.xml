@@ -39,7 +39,6 @@
     <suppress checks="LineLength" files="modules/scheduler-remote/.+\.(java|properties)"/>
     <suppress checks="LineLength" files="modules/schema/.+\.(java|properties)"/>
     <suppress checks="LineLength" files="modules/serviceregistry/.+\.(java|properties)"/>
-    <suppress checks="LineLength" files="modules/smil-impl/.+\.(java|properties)"/>
     <suppress checks="LineLength" files="modules/transcription-service-amberscript/.+\.(java|properties)"/>
     <suppress checks="LineLength" files="modules/transcription-service-google-speech-impl/.+\.(java|properties)"/>
     <suppress checks="LineLength" files="modules/transcription-service-ibm-watson-impl/.+\.(java|properties)"/>
@@ -83,7 +82,6 @@
     <suppress checks="Indentation" files="modules/runtime-info/.+\.java"/>
     <suppress checks="Indentation" files="modules/scheduler-impl/.+\.java"/>
     <suppress checks="Indentation" files="modules/serviceregistry/.+\.java"/>
-    <suppress checks="Indentation" files="modules/smil-impl/.+\.java"/>
     <suppress checks="Indentation" files="modules/transcription-service-amberscript/.+\.java"/>
     <suppress checks="Indentation" files="modules/transcription-service-google-speech-impl/.+\.java"/>
     <suppress checks="Indentation" files="modules/transcription-service-persistence/.+\.java"/>
